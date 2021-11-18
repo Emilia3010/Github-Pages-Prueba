@@ -1,3 +1,3 @@
-import {hola} from './modulos.js';
+import {saludo} from './modulos.js';
 
 console.log(saludo("Mi prueba"));
